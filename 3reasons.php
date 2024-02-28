@@ -5,6 +5,7 @@ $GLOBALS["keywords"] = "";
 include "header.php";
 ?>
 
+<!-- 1sr -->
 <section class="investBanner">
     <div class="investObj1">
         <img src="./assets/img/investor-obj1.png" alt="investor">
@@ -38,6 +39,7 @@ include "header.php";
     </div>
 </section>
 
+<!-- 2nd -->
 <section class="department">
     <div class="row">
         <div class="col-md-6">
@@ -49,6 +51,73 @@ include "header.php";
         <div class="col-md-6">
             <img src="./assets/img/department.png" alt="right">
             <p>Department of Energy</p>
+        </div>
+    </div>
+</section>
+
+<!-- 3rd -->
+<div class="apply-market-bg">
+    <section class="goldMan">
+        <div class="row">
+            <div class="col-md-6"> <img src="./assets/img/market-graph.png" alt="left">
+            </div>
+            <div class="col-md-6 d-flex justify-content-center align-items-center">
+                <div>
+                    <h1>According to Goldman Sachs, green</h1>
+                    <h1>hydrogen is now a massive once in</h1>
+                    <h1>a lifetime <span>$12 trillion</span> market</h1>
+                    <h1>opportunity</h1>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- 4th -->
+<section class="traditional-method">
+    <div class="row">
+        <div class="col-md-6">
+            <p>
+                Traditional methods of producing green hydrogen are expensive through the process of electrolysis, using electrolyzers with solar or wind energy to split water into hydrogen and oxygen.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <div class="right-water">
+                <img src="./assets/img/water.png" alt="water" class="water-image">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 5th -->
+<section class="green-hydrogen">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="heading-wrap">
+                <h1>The world is ready for cheap <span>green hydrogen</span> to help meet the green house gas</h1>
+                <h1>emission goals described in the United Nations Paris agreement.</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="facilities">
+        <div class="row">
+            <div class="col-md-4 d-flex justify-content-end align-items-center">
+                <div class="card-wrapper">
+
+                    <div class="card">
+                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 d-flex justify-content-center align-items-center">Lorem ipsum dolor sit amet.</div>
+            <div class="col-md-4 d-flex justify-content-start align-items-center">Lorem ipsum dolor sit amet.</div>
         </div>
     </div>
 </section>

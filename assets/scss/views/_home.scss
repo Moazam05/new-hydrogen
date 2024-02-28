@@ -971,7 +971,7 @@
 }
 
 .department {
-  margin: 100px 0 75px 0;
+  margin: 100px 0 0 0;
   background-color: #000;
   color: #fff;
   padding: 150px;
@@ -991,6 +991,98 @@
     font-weight: 500;
     line-height: 30px;
     color: #858585;
+  }
+}
+
+// 3rd Section 3Reasons
+.apply-market-bg {
+  //   background-image: url("../img/investor-obj1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.goldMan {
+  padding: 75px 150px 100px;
+
+  h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #000;
+    margin: 0;
+  }
+
+  h1 span {
+    background-color: #4fe653;
+    color: #000;
+    border-radius: 60px;
+    padding: 2px 4px;
+    font-size: 28px;
+  }
+}
+
+// 4th Section 3Reasons
+.traditional-method {
+  background-color: #f4f4f4;
+  margin-bottom: 125px;
+  padding: 100px 150px 160px;
+
+  p {
+    max-width: 440px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+  }
+
+  .right-water {
+    position: relative;
+  }
+
+  .right-water img {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+
+// 5th Section 3Reasons
+.green-hydrogen {
+  background-color: #343245;
+  padding: 100px 150px;
+
+  .heading-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1 {
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 49px;
+      color: #fff;
+      margin: 0;
+
+      span {
+        color: #4fe653;
+      }
+    }
+  }
+
+  .facilities {
+    margin: 100px 0 0 0;
+
+    .card-wrapper {
+      display: flex;
+      flex-direction: column;
+      gap: 50px;
+
+      .card {
+        background-color: #1f1d2d;
+        border-radius: 20px;
+      }
+    }
   }
 }
 
