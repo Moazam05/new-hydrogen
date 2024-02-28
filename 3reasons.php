@@ -203,6 +203,26 @@ include "header.php";
         </div>
     </div>
 </section>
+<section class="mobile-developed">
+    <h1>This is the right time for
+        ThermoLoop to be developed.</h1>
+    <p>New Hydrogen is creating excitement in the green hydrogen
+
+        space with the world-class team at UCSB.
+
+    </p>
+
+    <img src="./assets/img/new-hydro.png" alt="water">
+
+    <p>Learn more about what we are doing and stay informed about the
+
+        new developments as they are released.</p>
+
+    <div class="learn-a">
+        <a href="#">Learn More</a>
+    </div>
+
+</section>
 
 <!-- 8th Section -->
 <section class="appC investMarket last-3Reason">
