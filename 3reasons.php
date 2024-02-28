@@ -62,7 +62,7 @@ include "header.php";
             <div class="col-md-6"> <img src="./assets/img/market-graph.png" alt="left">
             </div>
             <div class="col-md-6 d-flex justify-content-center align-items-center">
-                <div>
+                <div class="head-wrap">
                     <h1>According to Goldman Sachs, green</h1>
                     <h1>hydrogen is now a massive once in</h1>
                     <h1>a lifetime <span>$12 trillion</span> market</h1>
@@ -102,7 +102,7 @@ include "header.php";
 
     <div class="facilities">
         <div class="row">
-            <div class="col-md-4 d-flex justify-content-end align-items-center">
+            <div class="col-md-4 d-flex justify-content-end align-items-center first-card">
                 <div class="card-wrapper">
                     <div class="card">
                         <img src="./assets/img/Aviation_Green.png" alt="Aviation">
@@ -118,7 +118,7 @@ include "header.php";
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 d-flex justify-content-center align-items-center">
+            <div class="col-md-4 d-flex justify-content-center align-items-center second-card">
                 <div class="card-wrapper">
                     <div class="card">
                         <img src="./assets/img/shipping-green.png" alt="Shipping">
@@ -134,7 +134,7 @@ include "header.php";
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 d-flex justify-content-start align-items-center">
+            <div class="col-md-4 d-flex justify-content-start align-items-center third-card">
                 <div class="card-wrapper">
                     <div class="card">
                         <img src="./assets/img/indutrial-green.png" alt="Industrial">

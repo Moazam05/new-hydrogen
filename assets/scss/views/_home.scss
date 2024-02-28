@@ -1005,8 +1005,12 @@
 .goldMan {
   padding: 75px 150px 100px;
 
+  .head-wrap {
+    margin: 0 0 20px 40px;
+  }
+
   h1 {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 700;
     line-height: 42px;
     color: #000;
@@ -1247,6 +1251,105 @@
 
   .investBggray {
     border-radius: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .department {
+    margin: 30px 0;
+    padding: 20px;
+
+    h1 {
+      font-size: 22px;
+    }
+  }
+  .department h1.green {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .goldMan {
+    padding: 20px;
+    .head-wrap {
+      margin: 20px 0;
+    }
+    h1 {
+      font-size: 22px;
+
+      span {
+        font-size: 22px;
+      }
+    }
+  }
+
+  .traditional-method {
+    padding: 20px;
+    margin: 0 0 40px 0;
+
+    .right-water img {
+      position: unset;
+      margin: 20px 0 0 0;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  }
+
+  .green-hydrogen {
+    padding: 20px;
+
+    .heading-wrap {
+      h1 {
+        font-size: 22px;
+      }
+    }
+
+    .facilities {
+      margin: 20px 0;
+
+      .card-wrapper {
+        gap: 30px;
+      }
+    }
+
+    .first-card,
+    .second-card,
+    .third-card {
+      justify-content: center !important;
+
+      &.second-card {
+        margin: 30px 0;
+      }
+    }
+  }
+
+  // new
+  .thermo-loop {
+    padding: 20px;
+    .santa {
+      h1 {
+        font-size: 22px;
+        span {
+          font-size: 22px;
+        }
+      }
+      p {
+        font-size: 16px;
+        margin: 10px;
+      }
+    }
+    p.second {
+      margin-top: 10px !important;
+    }
+    .new-hy {
+      h1 {
+        font-size: 22px;
+      }
+      img {
+        margin-top: 20px;
+      }
+    }
   }
 }
 
