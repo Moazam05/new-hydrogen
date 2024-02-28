@@ -104,20 +104,52 @@ include "header.php";
         <div class="row">
             <div class="col-md-4 d-flex justify-content-end align-items-center">
                 <div class="card-wrapper">
-
                     <div class="card">
-                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                        <img src="./assets/img/Aviation_Green.png" alt="Aviation">
                     </div>
                     <div class="card">
-                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                        <img src="./assets/img/Refinery-Green.png" alt="Refinery">
                     </div>
                     <div class="card">
-                        <img src="./assets/img/Aviation_Green.png" alt="Aviation_Green">
+                        <img src="./assets/img/Industrial-Green.png" alt="industrial">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/Pharmaceutical-Green.png" alt="Pharmaceuticals">
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 d-flex justify-content-center align-items-center">Lorem ipsum dolor sit amet.</div>
-            <div class="col-md-4 d-flex justify-content-start align-items-center">Lorem ipsum dolor sit amet.</div>
+            <div class="col-md-4 d-flex justify-content-center align-items-center">
+                <div class="card-wrapper">
+                    <div class="card">
+                        <img src="./assets/img/shipping-green.png" alt="Shipping">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/cars-green.png" alt="Cars">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/fertilizers-green.png" alt="Fertilizers">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/hydrogen-green.png" alt="Hydrogen">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 d-flex justify-content-start align-items-center">
+                <div class="card-wrapper">
+                    <div class="card">
+                        <img src="./assets/img/indutrial-green.png" alt="Industrial">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/buildings-green.png" alt="Buildings">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/power-green.png" alt="Power">
+                    </div>
+                    <div class="card">
+                        <img src="./assets/img/food-green.png" alt="Food">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
