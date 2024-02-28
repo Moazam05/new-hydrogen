@@ -178,5 +178,32 @@ include "header.php";
     </div>
 </section>
 
+<!-- 7th Section -->
+<section class="developed">
+    <div class="image-wrap">
+        <img src="./assets/img/h2-Background.png" alt="water">
+        <div class="card">
+            <div class="heading-wrap">
+                <h1>This is the right time for</h1>
+                <h1>ThermoLoop to be developed.</h1>
+            </div>
+        </div>
+        <div class="second-card">
+            <p>New Hydrogen is creating excitement in the green hydrogen </p>
+            <p>space with the world-class team at UCSB.</p>
+
+            <div class="hydro-wrap">
+                <img src="./assets/img/new-hydro.png" alt="water">
+                <p>Learn more about what we are doing and stay informed about the
+                </p>
+                <p class="another">new developments as they are released.</p>
+
+                <a href="#">Learn More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <?php include "footer.php"; ?>
