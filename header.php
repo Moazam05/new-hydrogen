@@ -151,9 +151,9 @@
                 margin-top: 145px;
             }
         </style>
-        <iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:0px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="340" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts">
+        <!-- <iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:0px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="340" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts">
 
-        </iframe>
+        </iframe> -->
         <script src="https://link.msgsndr.com/js/form_embed.js"></script>
     <?php } ?>
     <!-- Hedaer -->
