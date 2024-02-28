@@ -154,5 +154,29 @@ include "header.php";
     </div>
 </section>
 
+<!-- 6th Section -->
+<section class="thermo-loop">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="santa">
+                <h1>With UC Santa Barbara (UCSB), New Hydrogen, is developing ThermoLoop, to <span>reduce the cost of hydrogen production by 73%.</span></h1>
+
+                <p>This is accomplished by eliminating electricity used in existing electrolyzers.</p>
+                <p class="second"> Our <span>simple low-cost design</span> uses abundantly available water as a feedstock and inexpensive heat rather than expensive electricity to split the water into hydrogen.</p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="new-hy">
+                <h1>NewHydrogen ThermoLoop™
+                </h1>
+                <h1>An Elegant Single Loop Process</h1>
+
+                <img src="./assets/img/reduction.png" alt="Reduction">
+
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <?php include "footer.php"; ?>
