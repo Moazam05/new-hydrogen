@@ -986,11 +986,21 @@
       color: #4fe653;
     }
   }
+
   p {
     font-size: 16px;
     font-weight: 500;
     line-height: 30px;
     color: #858585;
+
+    &.in-the {
+      margin-top: 25px;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 30px;
+      color: #fff;
+      max-width: 300px;
+    }
   }
 }
 
@@ -1266,10 +1276,20 @@
     h1 {
       font-size: 22px;
     }
-  }
-  .department h1.green {
-    font-size: 22px;
-    margin-bottom: 20px;
+
+    p.in-the {
+      margin: 20px 0 40px 0;
+      max-width: unset;
+    }
+
+    h1.green {
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 13px;
+    }
   }
 
   .goldMan {

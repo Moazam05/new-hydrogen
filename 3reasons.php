@@ -47,6 +47,8 @@ include "header.php";
             <h1>all over the world has created a</h1>
             <h1> wave of excitement for</h1>
             <h1 class="green">Hydrogen power.</h1>
+
+            <p class="in-the">In the USA the Department of Energy is awarding billions in grants to clean hydrogen initiatives.</p>
         </div>
         <div class="col-md-6">
             <img src="./assets/img/department.png" alt="right">
@@ -213,7 +215,6 @@ include "header.php";
     </p>
 
     <img src="./assets/img/new-hydro.png" alt="water">
-
     <p>Learn more about what we are doing and stay informed about the
 
         new developments as they are released.</p>
