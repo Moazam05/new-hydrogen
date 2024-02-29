@@ -970,6 +970,11 @@
   }
 }
 
+.mobile-head-wrap {
+  display: none;
+}
+
+// 2nd Section 3Reasons
 .department {
   margin: 100px 0 0 0;
   background-color: #000;
@@ -1295,7 +1300,13 @@
   .goldMan {
     padding: 20px;
     .head-wrap {
-      margin: 20px 0;
+      // margin: 20px 0;
+      display: none;
+    }
+
+    .mobile-head-wrap {
+      display: block !important;
+      margin: 20px 0 0 0;
     }
     h1 {
       font-size: 22px;

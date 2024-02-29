@@ -70,6 +70,13 @@ include "header.php";
                     <h1>a lifetime <span>$12 trillion</span> market</h1>
                     <h1>opportunity</h1>
                 </div>
+
+                <div class="mobile-head-wrap">
+                    <h1>According to Goldman Sachs, green
+                        hydrogen is now a massive once in
+                        a lifetime <span>$12 trillion</span> market
+                        opportunity</h1>
+                </div>
             </div>
         </div>
     </section>
