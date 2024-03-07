@@ -46,6 +46,7 @@
     <!-- Include Magnific Popup CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
+    <link rel="stylesheet" href="./assets/scss/3Reasons.css">
 
     <!-- Google Recaptcha -->
     <script src="https://www.google.com/recaptcha/api.js?render=6LeWVeAnAAAAAIOw4s89h2pgbDVHZ0M7IzALAcXE"></script>

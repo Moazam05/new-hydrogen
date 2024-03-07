@@ -5,7 +5,7 @@ $GLOBALS["keywords"] = "";
 include "header.php";
 ?>
 
-<!-- 1sr -->
+<!-- 1st -->
 <section class="investBanner">
     <div class="investObj1">
         <img src="./assets/img/investor-obj1.png" alt="investor">
