@@ -190,7 +190,7 @@ include "header.php";
 <!-- 7th Section -->
 <section class="developed">
     <div class="image-wrap">
-        <img src="./assets/img/h2-Background.png" alt="water">
+        <img src="./assets/img/h2-Background-2.png" alt="water">
         <div class="card">
             <div class="heading-wrap">
                 <h1>This is the right time for</h1>
