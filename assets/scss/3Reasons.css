@@ -320,7 +320,8 @@
     margin: 20px 0;
   }
   .green-hydrogen .facilities .card-wrapper {
-    gap: 30px;
+    gap: 20px;
+    width: 100%;
   }
   .green-hydrogen .first-card,
   .green-hydrogen .second-card,
