@@ -31,7 +31,9 @@
 
 /* 3rd Section */
 .apply-market-bg {
-  background-image: url("../img/investor-obj3.png");
+  /* investor-obj3 */
+  /* bg-trillion-2 */
+  background-image: url("../img/bg-trillion-2.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
