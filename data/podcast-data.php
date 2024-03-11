@@ -150,7 +150,7 @@ $videos = [
         'videoID' => "GxDgynOJzTs",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "hydrogen-hype-is-real",
         "display" => true
     ],
     [
@@ -158,7 +158,7 @@ $videos = [
         'videoID' => "r9eqY5ye5tY",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "trust-you-want-to-check-us-out",
         "display" => true
     ],
     [
@@ -166,7 +166,7 @@ $videos = [
         'videoID' => "rQVghpuxXpQ",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "times-are-changing-and-trust-you-want-to-stay-up-to-date",
         "display" => true
     ],
     [
@@ -174,7 +174,7 @@ $videos = [
         'videoID' => "8ZWU7G6zzdA",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "electrolyzers-need-for-steady-power-from-renewables-is-vital",
         "display" => true
     ],
     [
@@ -182,7 +182,7 @@ $videos = [
         'videoID' => "xJbWtWXONLc",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "our-thermoloop-can-change-the-world-and-save-you-lots-of-money",
         "display" => true
     ],
     [
@@ -190,7 +190,7 @@ $videos = [
         'videoID' => "MTa7SkIctFo",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "1807-innovation",
         "display" => true
     ],
     [
@@ -198,7 +198,7 @@ $videos = [
         'videoID' => "GbDPQjerx-g",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "hydrogen-has-so-many-uses",
         "display" => true
     ],
     [
@@ -206,7 +206,7 @@ $videos = [
         'videoID' => "aBNDKOJ6_K4",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "the-time-to-pay-attention-to-hydrogen-is-now",
         "display" => true
     ],
     [
@@ -214,7 +214,7 @@ $videos = [
         'videoID' => "Gqk7_K3DMXk",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "hydrogen-is-the-future-and-always-has-been",
         "display" => true
     ],
     [
@@ -222,7 +222,7 @@ $videos = [
         'videoID' => "oHCqcejI6wM",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "japan-is-committed-to-green-hydrogen",
         "display" => true
     ],
     [
@@ -230,7 +230,7 @@ $videos = [
         'videoID' => "K82wTuIzjw8",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "metallica-supports-hydrogen",
         "display" => true
     ],
     [
@@ -238,7 +238,7 @@ $videos = [
         'videoID' => "m4dVcpUqe34",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "californias-hydrogen-highway",
         "display" => true
     ],
     [
@@ -246,7 +246,7 @@ $videos = [
         'videoID' => "bMR4ZOLX9nA",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "hydrogen-buses-equals-cleaner-greener-urban-travel-with-lower-costs-and-zero-emissions",
         "display" => true
     ],
     [
@@ -254,7 +254,7 @@ $videos = [
         'videoID' => "DAy0FP81TpY",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "what-do-you-think-about-this-jet",
         "display" => true
     ],
     [
@@ -262,7 +262,7 @@ $videos = [
         'videoID' => "oU1VMhIdyA0",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "sailing-towards-a-cleaner-future-with-zero-emissions-and-stable-fuel-costs",
         "display" => true
     ],
     [
@@ -270,7 +270,7 @@ $videos = [
         'videoID' => "tAY1mIsg4fU",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "a-12-trillion-dollar-market",
         "display" => true
     ],
     [
@@ -278,7 +278,7 @@ $videos = [
         'videoID' => "drn2ELAh2G0",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "auto-giants-rethink-ev-strategy-amid-battery-challenges-and-slowing-demand",
         "display" => true
     ],
     [
@@ -286,7 +286,7 @@ $videos = [
         'videoID' => "9SF9CvXcOX0",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "hydrogen-is-creating-a-plane-that-doesnt-need-a-runway",
         "display" => true
     ],
     [
@@ -294,7 +294,7 @@ $videos = [
         'videoID' => "PA9b1AcC3Pc",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "unlocking-the-future-of-clean-energy-with-precision",
         "display" => true
     ],
     [
@@ -302,7 +302,7 @@ $videos = [
         'videoID' => "8wnMNsNWLM4",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "big-news-circulating-in-the-hydrogen-industry",
         "display" => true
     ],
     [
@@ -310,7 +310,7 @@ $videos = [
         'videoID' => "5TjriNCSIkM",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "newhydrogen-is-poised-to-deliver-on-its-promise-of-being-the-producer-of-the-cheapest-green-hydrogen",
         "display" => true
     ],
     [
@@ -318,7 +318,7 @@ $videos = [
         'videoID' => "FlkKIEov30U",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "do-you-know-what-hydrogen-is",
         "display" => true
     ],
     [
@@ -326,7 +326,7 @@ $videos = [
         'videoID' => "FfsuKp3zWJQ",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "industries-require-high-energy-density-and-continuous-power-supply",
         "display" => true
     ],
     [
@@ -334,7 +334,7 @@ $videos = [
         'videoID' => "Hczi5Q_7iMY",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "thermoloop-is-the-potential-key-to-shaping-the-future-global-energy-landscape",
         "display" => true
     ],
     [
@@ -342,7 +342,7 @@ $videos = [
         'videoID' => "O2cVWa5E4cY",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "new-hydrogens-commitment-to-developing-the-worlds-cheapest-green-hydrogen",
         "display" => true
     ],
     [
@@ -350,7 +350,7 @@ $videos = [
         'videoID' => "IKNslHSSiQs",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "12-trillion-not-often-do-you-see-a-number-like-this-with-an-opportunity-to-have-a-piece-of-it",
         "display" => true
     ],
     [
@@ -358,7 +358,7 @@ $videos = [
         'videoID' => "-YBtSd1rNqQ",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "7-billion-invested-lets-you-know-this-is-legit",
         "display" => true
     ],
     [
@@ -366,7 +366,7 @@ $videos = [
         'videoID' => "FgRKmHqfzjM",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "did-you-know-7-billion-has-been-invested-for-hydrogen-advancements-all-around-the-us",
         "display" => true
     ],
     [
@@ -374,7 +374,7 @@ $videos = [
         'videoID' => "Hczi5Q_7iMY",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "our-thermoloop-technology",
         "display" => true
     ],
     [
@@ -382,7 +382,7 @@ $videos = [
         'videoID' => "cg8wMjs6cwo",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "newhydrogens-thermoloop-technology",
         "display" => true
     ],
     [
@@ -390,7 +390,7 @@ $videos = [
         'videoID' => "NKyCbBojDgE",
         'date' => "",
         'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
+        'slug' => "we-are-the-future-of-hydrogen-production",
         "display" => true
     ],
     [
