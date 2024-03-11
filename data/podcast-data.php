@@ -72,7 +72,6 @@ $videos = [
         'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
         "display" => true
     ],
-  
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
@@ -144,6 +143,287 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
+    ],
+    // new
+    [
+        'title' => "Hydrogen Hype is Real",
+        'videoID' => "GxDgynOJzTs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Trust, you want to check us out.",
+        'videoID' => "r9eqY5ye5tY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Times are changing and trust, you want to stay up-to-date.",
+        'videoID' => "rQVghpuxXpQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Electrolyzers' need for steady power from renewables is vital.",
+        'videoID' => "8ZWU7G6zzdA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Our Thermoloop can change the world and save you lots of money!",
+        'videoID' => "xJbWtWXONLc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "1807 Innovation",
+        'videoID' => "MTa7SkIctFo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen has so many uses!",
+        'videoID' => "GbDPQjerx-g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "The time to pay attention to hydrogen is NOW!",
+        'videoID' => "aBNDKOJ6_K4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is the future and always has been.",
+        'videoID' => "Gqk7_K3DMXk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Japan Is Committed To Green Hydrogen",
+        'videoID' => "oHCqcejI6wM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Metallica Supports Hydrogen",
+        'videoID' => "K82wTuIzjw8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "California's hydrogen highway",
+        'videoID' => "m4dVcpUqe34",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Green hydrogen propels Europe's inland shipping towards zero emissions with H2 Barge II",
+        'videoID' => "9mub593G10s",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen buses equals cleaner, greener urban travel with lower costs and zero emissions!",
+        'videoID' => "bMR4ZOLX9nA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "What do you think about this jet?",
+        'videoID' => "DAy0FP81TpY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Sailing towards a cleaner future with zero emissions and stable fuel costs",
+        'videoID' => "oU1VMhIdyA0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "A 12 Trillion Dollar Market!",
+        'videoID' => "tAY1mIsg4fU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Auto giants rethink EV strategy amid battery challenges and slowing demand",
+        'videoID' => "drn2ELAh2G0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is creating a plane that doesn't need a runway",
+        'videoID' => "9SF9CvXcOX0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "GM shifts from EV targets to demand-driven production",
+        'videoID' => "8haF9h5G3xA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Unlocking the future of clean energy with precision!",
+        'videoID' => "PA9b1AcC3Pc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hertz shifts gears, selling 20k Tesla EVs amid challenges.",
+        'videoID' => "jyYTdo2f-u4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Big news circulating in the hydrogen industry",
+        'videoID' => "8wnMNsNWLM4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen is poised to deliver on its promise of being the producer of the cheapest green hydrogen",
+        'videoID' => "5TjriNCSIkM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Do You Know What HYDROGEN Is?",
+        'videoID' => "FlkKIEov30U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Industries require high energy density and continuous power supply",
+        'videoID' => "FfsuKp3zWJQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Ammonia is a byproduct of hydrogen",
+        'videoID' => "W4ft-jzFobE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Thermoloop is the potential key to shaping the future global energy landscape.",
+        'videoID' => "Hczi5Q_7iMY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "New Hydrogen's commitment to developing the world's cheapest green hydrogen",
+        'videoID' => "O2cVWa5E4cY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "$12 Trillion! Not often do you see a number like this with an opportunity to have a piece of it!",
+        'videoID' => "IKNslHSSiQs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "$7 Billion invested lets you know this is legit!",
+        'videoID' => "-YBtSd1rNqQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know $7 billion has been invested for hydrogen advancements all around the US?",
+        'videoID' => "FgRKmHqfzjM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Our Thermoloop technology",
+        'videoID' => "Hczi5Q_7iMY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen's ThermoLoop Technology",
+        'videoID' => "cg8wMjs6cwo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "We are the future of hydrogen production.",
+        'videoID' => "NKyCbBojDgE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
     ],
     [
         'title' => "If you love the planet, please share!",
@@ -1017,7 +1297,7 @@ $videos = [
         'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
         "display" => true
     ],
-  
+
     [
         'title' => "David Bleckham - Cal State University Los Angeles",
         'videoID' => "0YbvntRQ7IM",
@@ -1042,7 +1322,7 @@ $videos = [
         'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
         "display" => true
     ],
-    
+
     [
         'title' => "Alan Lloyd",
         'videoID' => "eNg6arNE7S0",
@@ -1051,10 +1331,10 @@ $videos = [
         'slug' => "alan-lloyd",
         "display" => true
     ],
-   
-   
-   
-   
+
+
+
+
     [
         'title' => "The Rise of Hydrogen in Heavy Transportation",
         'videoID' => "K9io-BTYPII",
@@ -1119,8 +1399,8 @@ $videos = [
         'slug' => "johannes-schwank-university-of-michigan",
         "display" => true
     ],
- 
-  
+
+
     [
         'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",
         'videoID' => "luvHuNAWr7U",
@@ -1137,7 +1417,7 @@ $videos = [
         'slug' => "investor-confidence-builds-for-green-hydrogen",
         "display" => true
     ],
-   
+
     [
         'title' => "Naomi Boness - Stanford",
         'videoID' => "i7GYiQmcg3Y",
@@ -1178,7 +1458,7 @@ $videos = [
         'slug' => "the-time-for-green-hydrogen-is-now",
         "display" => true
     ],
-  
+
     [
         'title' => "Summer 2023 has been the hottest ever recorded!",
         'videoID' => "287dPw97T-w",
