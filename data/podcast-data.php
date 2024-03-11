@@ -1,11 +1,67 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Paul Palies - University of Tennessee",
+        'videoID' => "CxtbfsU0r24",
+        'date' => "March 9, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-paul-palies-university-of-tennessee",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Krish Jayachandran - Florida International University",
+        'videoID' => "4_gQjfXu_zA",
+        'date' => "March 8, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-krish-jayachandran-florida-international-university",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Carol Parrish - University of Richmond",
+        'videoID' => "G8RiexwgUmw",
+        'date' => "March 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-carol-parrish-university-of-richmond",
+        "display" => false
+    ],
+    [
+        'title' => "Andrew Thomas - Cleveland State University",
+        'videoID' => "IrSEdtDAgsM",
+        'date' => "February 27, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "andrew-thomas-cleveland-state-university",
+        "display" => true
+    ],
+    [
+        'title' => "March 3, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Yhxtt06nE2w",
+        'date' => "March 3, 2024",
+        'category' => "news-commentary",
+        'slug' => "march-3-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "February 29, 2024 - NewHydrogen News Commentary",
+        'videoID' => "z-D5CmNn6Cs",
+        'date' => "February 29, 2024",
+        'category' => "news-commentary",
+        'slug' => "february-29-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "February 19, 2024 - NewHydrogen News Commentary",
+        'videoID' => "-7uPwMRO9Zs",
+        'date' => "February 19, 2024",
+        'category' => "news-commentary",
+        'slug' => "february-19-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "NewHydrogen News",
         'videoID' => "i_MH3Z02LzE",
         'date' => "February 12, 2024",
         'category' => "news-commentary",
-        'slug' => "newHydrogen-news",
+        'slug' => "newhydrogen-news",
         "display" => true
     ],
     [
@@ -16,18 +72,11 @@ $videos = [
         'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
         "display" => true
     ],
-    [
-        'title' => "Dr. Jayan Chandran - Florida International University",
-        'videoID' => "27hy56xbSn4",
-        'date' => "February 16, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jayan-chandran-florida-international-university",
-        "display" => false
-    ],
+  
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
-        'date' => "November 6, 2023",
+        'date' => "February 13, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
@@ -95,38 +144,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
-    ],
-    [
-        'title' => "Our Thermoloop technology is ahead of it's time and it's time to pay attention!",
-        'videoID' => "fdrFRPiTawc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "our-thermoloop-technology-is-ahead-of-it-time-and-it-time-to-pay-attention",
-        "display" => true
-    ],
-    [
-        'title' => "The Cat is Out The Hat",
-        'videoID' => "AZTFF1-SOEw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-cat-is-out-the-hat",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen WILL be a major part of the green energy movement!",
-        'videoID' => "Q65KaTHICWk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-wILL-be-a-major-part-of-the-green-energy-movement",
-        "display" => true
-    ],
-    [
-        'title' => "Light pollution is dark topic",
-        'videoID' => "rOkH4zkWmkA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "light-pollution-is-dark-topic",
-        "display" => true
     ],
     [
         'title' => "If you love the planet, please share!",
@@ -1016,14 +1033,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "valerie-thomas-georgia-tech",
         "display" => true
-    ],
-    [
-        'title' => "Andrew Thomas - Cleveland State University",
-        'videoID' => "IrSEdtDAgsM",
-        'date' => "November 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "andrew-thomas-cleveland-state-university",
-        "display" => false
     ],
     [
         'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
