@@ -242,14 +242,6 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "Green hydrogen propels Europe's inland shipping towards zero emissions with H2 Barge II",
-        'videoID' => "9mub593G10s",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
-        "display" => true
-    ],
-    [
         'title' => "Hydrogen buses equals cleaner, greener urban travel with lower costs and zero emissions!",
         'videoID' => "bMR4ZOLX9nA",
         'date' => "",
@@ -298,24 +290,8 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "GM shifts from EV targets to demand-driven production",
-        'videoID' => "8haF9h5G3xA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
-        "display" => true
-    ],
-    [
         'title' => "Unlocking the future of clean energy with precision!",
         'videoID' => "PA9b1AcC3Pc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
-        "display" => true
-    ],
-    [
-        'title' => "Hertz shifts gears, selling 20k Tesla EVs amid challenges.",
-        'videoID' => "jyYTdo2f-u4",
         'date' => "",
         'category' => "short-video",
         'slug' => "if-you-love-the-planet-please-share",
@@ -348,14 +324,6 @@ $videos = [
     [
         'title' => "Industries require high energy density and continuous power supply",
         'videoID' => "FfsuKp3zWJQ",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "if-you-love-the-planet-please-share",
-        "display" => true
-    ],
-    [
-        'title' => "Ammonia is a byproduct of hydrogen",
-        'videoID' => "W4ft-jzFobE",
         'date' => "",
         'category' => "short-video",
         'slug' => "if-you-love-the-planet-please-share",
